@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="LanguageLearnNetWebAPI.Tests/LanguageLearnNetWebAPI.Tests.csproj" Id="857aebb7-1ff6-409f-ac21-520393acdf99" />
+  <Project Path="LanguageLearnNETWebAPI/LanguageLearnNETWebAPI.csproj" />
+</Solution>
